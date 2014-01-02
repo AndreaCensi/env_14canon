@@ -1,0 +1,33 @@
+---
+dir: .
+url: git@github.com:AndreaCensi/env_14canon.git
+---
+dir: src/contracts
+url: git@github.com:AndreaCensi/contracts.git
+branch: env_14canon 
+---
+dir: src/compmake
+url: git@github.com:AndreaCensi/compmake.git
+branch: env_14canon  
+---
+dir: src/latex_symbol_list
+url: git@github.com:AndreaCensi/latex_symbol_list.git
+branch: env_14canon 
+---
+dir: src/pysnip
+url: git@github.com:AndreaCensi/pysnip.git
+branch: env_14canon 
+---
+dir: docs/12-censi-thesis-bv
+url: ssh://git@ac.repositoryhosting.com/ac/12-censi-thesis-bv.git
+branch: env_14canon
+---
+dir: docs/writingtools
+url: git@github.com:AndreaCensi/writingtools.git
+branch: env_14canon
+---
+dir: docs/14canon
+url: git@github.com:AndreaCensi/14canon.git
+branch: env_14canon
+
+
