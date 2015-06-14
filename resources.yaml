@@ -31,7 +31,8 @@ url: git@github.com:AndreaCensi/writingtools.git
 branch: env_14canon
 ---
 dir: docs/14canon
-url: git@github.com:AndreaCensi/14canon.git
+url: git@github.mit.edu:censi/14canon.git
+# url: git@github.com:AndreaCensi/14canon.git
 branch: env_14canon
 
 
